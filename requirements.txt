@@ -7,7 +7,6 @@ IPython
 matplotlib
 pandas
 wordcloud
-collections
 re
 operator
 string
